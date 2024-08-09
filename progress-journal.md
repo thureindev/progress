@@ -1,5 +1,5 @@
-# Git, Vite and Vanilla JS for tic-tac-toe game 
-## Relearning why we need to use those tools. (Aug 3-6)
+# This journal includes links to my git repos
+## Git, Vite and Vanilla JS for tic-tac-toe game (Aug 3-6)
 
 For the past few days I've been relearning why we need to use libraries and frameworks such as React, Vue etc. I coded tic-tac-toe game in vanilla JavaScript and encountered CORS policy problems when I tried to use modules for clean code. To be honest, I never quite understood why we need to use React, Vue or such libs and frameworks. Now, as I implement plain old ES6 code, I think I quite understood why we need to use such and such tools and techniques.
 

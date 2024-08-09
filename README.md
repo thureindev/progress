@@ -1,4 +1,5 @@
-## This repo is the record of my progress. Dear future employers, hiring managers and collegues; please check progress-journald.md 
+## Dear future employers, hiring managers and collegues; please check progress-journald.md 
+- This repo is the record of my progress. 
 
 Hello, I'm Thurein. In 2022 March, I started learning MERN stack. In 2023 August I prepared my portfolio and started looking for web developer job in Thailand. 
 
