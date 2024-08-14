@@ -12,3 +12,8 @@ For git I need to understand more about merging techniques. and I have no idea w
 - https://github.com/thureindev/reinventing-tic-tac-toe
 
 I took some days writing only in Vanilla JS. Except using Array Prototype functions and JS script defined objects, no library, no framework is used. I wrote a fully object oriented, Modal-View-Controller code for tic-tac-toe game. So far I've got a working classic tic-tac-toe game in expandable board, adjustable winning length, ready to scale into new gameplays and customized rules. It was fun and had a lot of insightful moments writing plain, raw JavaScript.
+
+## Refactoring and learning OOP patterns while adding new features (Aug 12-14)
+- https://github.com/thureindev/reinventing-tic-tac-toe
+
+Spent some days adding new features. Refactoring properly is incredibly effective in learning programming patterns. Using git properly, but still need to understand git rebase. Tmr I'll do the final touch up on this Vanilla version and move on to Flutter and Vue frontend. I'll work on the same tic-tac-toe program in a new dev env. After that, I'm planning to make a online multiplayer match making server.  
