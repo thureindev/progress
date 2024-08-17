@@ -39,17 +39,17 @@ I’m committed to enhancing my programming skills and broadening my understandi
 > Developed an object-oriented MVC architecture for the tic-tac-toe game previously implemented with a sequential code structure. Continued using vanilla JavaScript, without relying on external libraries or frameworks. The updated game features an expandable board, adjustable winning conditions, and is designed to accommodate new game modes. This project provided valuable hands-on experience in transitioning from a sequential code structure to object-oriented programming.
 
 ### Refactoring and Learning OOP Patterns (Aug 12-14)
-#### Repository: [Twist-Tac-Toe](https://github.com/thureindev/twist-tac-toe/app-vanilla-js/)
+#### Repository: [Twist-Tac-Toe](https://github.com/thureindev/twist-tac-toe/tree/main/app-vanilla-js)
 
 > Spent some days adding new features. Proper refactoring is incredibly effective for learning programming patterns. While I am using Git effectively, I still need to deepen my understanding of `git rebase`. Tomorrow, I will finalize the Vanilla JavaScript version of the game and transition to working with Flutter and Vue for the frontend. I plan to develop the same tic-tac-toe game in a new development environment. Following that, I aim to build an online multiplayer matchmaking server. 
 
 ### Refactoring Challenges (Aug 15-16)
-#### Repository: [Twist-Tac-Toe](https://github.com/thureindev/twist-tac-toe/app-vanilla-js/)
+#### Repository: [Twist-Tac-Toe](https://github.com/thureindev/twist-tac-toe/tree/main/app-vanilla-js)
 
 > Refactoring again as new issues came up with previous changes, leading to a review of class properties and methods. However, time well spent for improving the code. I will complete the refactor tomorrow and finally start server-side and frontend development with Vue or Flutter.
 
 ### Completed Vanilla Version; Exploring Vue and Flutter Next (Aug 17)
-#### Repository: [Twist-Tac-Toe](https://github.com/thureindev/twist-tac-toe/app-vanilla-js/)
+#### Repository: [Twist-Tac-Toe](https://github.com/thureindev/twist-tac-toe/tree/main/app-vanilla-js/)
 ##### Accomplishments:
 > Finalized Vanilla Version: Completed and committed the final version of the vanilla JavaScript implementation of Twist-Tac-Toe.
 
