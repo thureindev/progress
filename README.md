@@ -57,19 +57,19 @@ I’m committed to enhancing my programming skills and broadening my understandi
 
 #### Repository: [Twist-Tac-Toe vanilla js](https://github.com/thureindev/twist-tac-toe/tree/main/app-vanilla-js/)
 
-##### Accomplishments:
+##### Accomplishments
 
 > Finalized Vanilla Version: Completed and committed the final version of the vanilla JavaScript implementation of Twist-Tac-Toe.
 
 > Git Proficiency: Gained hands-on experience with Git, specifically in understanding the concept of git merge. Experimented with various mockup directories and file structures to solidify my knowledge.
 
-##### Next Steps:
+##### Next Steps
 
 > Exploration: I am reviewing articles on Vue.js and Flutter tonight to decide which framework aligns best with my learning goals and project needs.
 
 ### Vue and Tailwind (Aug 21)
 
-### Repository: [Twist-Tac-Toe vue with tailwind]https://github.com/thureindev/twist-tac-toe/tree/main/app-vue-tailwind/
+### Repository: [Twist-Tac-Toe vue with tailwind](https://github.com/thureindev/twist-tac-toe/tree/main/app-vue-tailwind/)
 
 I began learning Vue due to its reputed ease of use and comfortable learning curve. Many articles recommend combining Vue with Tailwind, though I'm skeptical of Tailwind's approach because it blurs the separation of concerns between HTML and CSS, leading to cluttered HTML. Nonetheless, I'll explore Vue’s syntax with Tailwind to understand its practical application.
 
@@ -78,6 +78,7 @@ I began learning Vue due to its reputed ease of use and comfortable learning cur
 After experimenting with Vue and Tailwind, I found Vue’s Single File Components to be superior for maintaining separation of concerns. Tailwind, while popular, isn't as beneficial as Vuetify, which seems to be an industry standard. I’ve been researching Vue’s full potential, SSG, and progressive web apps. Tomorrow, I will start a new Tic-Tac-Toe project using Vue, Vuetify, Vuex for state management, and Nuxt for SSG.
 
 #### Planned Tools & Libraries
+
 - **Nuxt.js:** For static site generation (SSG) and routing.
 - **Vue Router:** To manage navigation between SSG and SPA components.
 - **Vuex:** For state management, crucial for handling game state and high scores.
@@ -85,3 +86,9 @@ After experimenting with Vue and Tailwind, I found Vue’s Single File Component
 - **Axios:** For HTTP requests to an Express API, useful for retrieving global high scores.
 - **MongoDB/PostgreSQL:** For storing global high scores and player data.
 - **Vite:** For a fast and modern build tool to enhance development speed and optimize builds.
+
+### Cleaning Up the Mess (Sep 12)
+
+It’s been over 2 weeks since my last update. I've been a bit sidetracked with reading articles and endless planning for development. I just had a lightbulb moment: the whole point of starting this journal was to create, not to get lost in the details. Instead of planning all the time, I need to focus on creating and learning by doing.
+
+So, tomorrow, I’m wrapping up a working prototype of Tic-Tac-Toe in Vue. This side project came out of my recent distraction—check it out here: [Elevator Simulation](https://github.com/thureindev/elevator-sim.git). Time to shift gears and get things done!
